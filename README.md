@@ -45,3 +45,9 @@ BBFE 【http://bbfe.group/】是奇安信最大的前端团队，现招暑期实
 | 长沙麓谷       | 湖南省长沙市麓天路28号五矿麓谷科技产业园C6栋4层 | [JD 入口](https://www.zhipin.com/job_detail/105f1896b752bd8f1XZ839u-EVFR.html) <br /> ![Boss 二维码](./changsha-zhaopin.png)                                                              |
 | 西安中铁       | 陕西省西安市丈八一路中铁西安中心11楼            | [JD 入口](https://www.zhipin.com/job_detail/4f7e3a2a993c63201XV72tW8FVZW.html) <br /> ![Boss 二维码](./xian-zhaopin.png)|
 
+
+<style type="text/css">
+  td  img {
+    width: 162px;
+  }
+<style>
